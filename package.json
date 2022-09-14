@@ -1,7 +1,7 @@
 {
   "name": "123bettt",
   "main": "./lib/123bettt",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [
     "123bet",
@@ -15,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
